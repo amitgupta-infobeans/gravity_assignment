@@ -26,17 +26,18 @@ A simple and optimized Todo List application built using **React**, **Vite**, an
 ---
 
 ## 📁 Folder Structure
+
+```bash
 ├── components/
 │ └── TodoItem.jsx
+│ └── TodoApp.jsx
 ├── hooks/
 │ └── useTodos.js
 ├── App.jsx
-├── TodoApp.jsx
 ├── main.jsx
 ├── index.css
 └── README.md
-
-
+```
 
 ---
 
