@@ -55,8 +55,8 @@ A simple and optimized Todo List application built using **React**, **Vite**, an
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/react-tailwind-todo.git
-cd to_project_folder
+git clone https://github.com/amitgupta-infobeans/gravity_assignment.git
+cd todotask
 npm install
 npm run dev
 ```
